@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CateringOutTheBox", "Catering Out The Box\BlackStrength\CateringOutTheBox.csproj", "{DA6F6694-5F53-42D1-8429-B850D11B8EA9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CateringOutTheBoxContent", "Catering Out The Box\BlackStrengthContent\CateringOutTheBoxContent.contentproj", "{8BF3FDD6-608D-4401-88D7-47F7BF58D08E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeapLibrary", "Catering Out The Box\LEAPLibrary\LeapLibrary.csproj", "{B2AA5DA6-0FA6-42A4-813F-0480460F0820}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DA6F6694-5F53-42D1-8429-B850D11B8EA9}.Debug|x86.ActiveCfg = Debug|x86
+		{DA6F6694-5F53-42D1-8429-B850D11B8EA9}.Debug|x86.Build.0 = Debug|x86
+		{DA6F6694-5F53-42D1-8429-B850D11B8EA9}.Release|x86.ActiveCfg = Release|x86
+		{DA6F6694-5F53-42D1-8429-B850D11B8EA9}.Release|x86.Build.0 = Release|x86
+		{8BF3FDD6-608D-4401-88D7-47F7BF58D08E}.Debug|x86.ActiveCfg = Debug|x86
+		{8BF3FDD6-608D-4401-88D7-47F7BF58D08E}.Release|x86.ActiveCfg = Release|x86
+		{B2AA5DA6-0FA6-42A4-813F-0480460F0820}.Debug|x86.ActiveCfg = Debug|x86
+		{B2AA5DA6-0FA6-42A4-813F-0480460F0820}.Debug|x86.Build.0 = Debug|x86
+		{B2AA5DA6-0FA6-42A4-813F-0480460F0820}.Release|x86.ActiveCfg = Release|x86
+		{B2AA5DA6-0FA6-42A4-813F-0480460F0820}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
